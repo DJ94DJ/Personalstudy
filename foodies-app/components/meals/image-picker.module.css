@@ -42,4 +42,6 @@
 
 .preview img {
   object-fit: cover;
+
+  /*테스트*/
 }
