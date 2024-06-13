@@ -1,0 +1,6 @@
+{
+  "presets": ["next/babel"],
+  "plugins": []
+}
+
+// nextjs 첫자 빨간줄 오타 해결!
